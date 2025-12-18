@@ -1,6 +1,3 @@
-Here is a professional and comprehensive README.md for your Python ATM Simulator project, designed to showcase your skills to recruiters and GitHub visitors:
-
-Automated Banking Simulation System (ATM)
 A robust, console-based Python application that simulates the core functionalities of an Automated Teller Machine. This project demonstrates fundamental software engineering principles including secure authentication workflows, state management, and robust error handling.
 
 🚀 Features
